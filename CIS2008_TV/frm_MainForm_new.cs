@@ -25,7 +25,7 @@ using System.Diagnostics;
 namespace CIS.CoreApp
 {
     /// <summary>
-    /// abcd
+    /// Test dog bo
     /// </summary>
     public partial class frm_MainForm_new : Form
     {
