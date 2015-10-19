@@ -716,7 +716,7 @@ namespace VNS.HIS.UI.NGOAITRU
                 txtNguoitiem.SetCode(THU_VIEN_CHUNG.Laygiatrithamsohethong("KCB_TIEMCHUNG_MANHANVIEN_MACDINH", false));
                 if (txtNguoitiem.MyCode == "-1" && globalVariables.gv_intIDNhanvien > 0)
                 {
-                    txtBacsi.SetId(globalVariables.gv_intIDNhanvien);
+                    txtNguoitiem.SetId(globalVariables.gv_intIDNhanvien);
                 }
                 
             }
