@@ -1,0 +1,58 @@
+﻿Installing assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+   logtoconsole = 
+Installing service HRService...
+Service HRService has been successfully installed.
+Creating EventLog source HRService in log Application...
+Committing assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+Removing EventLog source HRService.
+Service HRService is being removed from the system...
+Service HRService was successfully removed from the system.
+Attempt to stop service HRService.
+Uninstalling assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+Removing EventLog source VietbaIT HRS.
+Warning: The source VietbaIT HRS is not registered on the local machine.
+Service VietbaIT HRS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+   logtoconsole = 
+Installing service VietbaIT HRS...
+Service VietbaIT HRS has been successfully installed.
+Creating EventLog source VietbaIT HRS in log Application...
+Committing assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.InstallLog
+   assemblypath = D:\VBITProjects\DicomProject\source\trunk\Vietbait.HRS\bin\Debug\VIETBAIT.HRS.exe
+Removing EventLog source VietbaIT HRS.
+Service VietbaIT HRS is being removed from the system...
+Service VietbaIT HRS was successfully removed from the system.

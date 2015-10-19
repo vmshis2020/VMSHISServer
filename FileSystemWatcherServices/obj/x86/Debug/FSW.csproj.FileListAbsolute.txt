@@ -1,0 +1,16 @@
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\obj\x86\Debug\VMS.FSW.FSWService.resources
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\obj\x86\Debug\VIETBAIT.HRS.ProjectInstaller.resources
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\obj\x86\Debug\FSW.csproj.GenerateResource.Cache
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\WLSCU.exe.config
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\WLSCU.exe
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\WLSCU.pdb
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\xvLogs.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\NLog.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\xvLogs.pdb
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\bin\Debug\NLog.xml
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\obj\x86\Debug\WLSCU.exe
+D:\Projects\VMSClient\trunk\FileSystemWatcherServices\obj\x86\Debug\WLSCU.pdb
