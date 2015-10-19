@@ -1,0 +1,9 @@
+D:\Projects\VMSClient\trunk\AdminWS\bin\AdminWS.dll
+D:\Projects\VMSClient\trunk\AdminWS\bin\AdminWS.pdb
+D:\Projects\VMSClient\trunk\AdminWS\bin\xvLogs.dll
+D:\Projects\VMSClient\trunk\AdminWS\bin\NLog.dll
+D:\Projects\VMSClient\trunk\AdminWS\bin\xvLogs.pdb
+D:\Projects\VMSClient\trunk\AdminWS\bin\NLog.xml
+D:\Projects\VMSClient\trunk\AdminWS\obj\Debug\AdminWS.csprojResolveAssemblyReference.cache
+D:\Projects\VMSClient\trunk\AdminWS\obj\Debug\AdminWS.dll
+D:\Projects\VMSClient\trunk\AdminWS\obj\Debug\AdminWS.pdb
